@@ -1,5 +1,5 @@
 csv格式转vcf格式小工具<br>
-csv是execle表格格式的一种，可以用excle编辑好，然后另存为csv格式<br>
+csv是excle表格格式的一种，可以用excle编辑好，然后另存为csv格式<br>
 本工具csv格式要求：<br>
 第一列    第二列        第三列<br>
 姓名      电话号码      公司名称<br>
