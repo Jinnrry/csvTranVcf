@@ -6,7 +6,8 @@ csv是excle表格格式的一种，可以用excle编辑好，然后另存为csv�
 <br>
 <br>
 注意，csv必须按以上格式，并且不能有表头<br>
-由于是使用JAVA编写的程序，所以运行需要先安装java运行环境，下载地址<a herf='http://www.java.com/zh_CN/'>http://www.java.com/zh_CN/</a><br>
+由于是使用JAVA编写的程序，所以运行需要先安装java运行环境，
+[点击下载](<http://www.java.com/zh_CN/)
 安装java运行环境后即可使用本程序
 [点击下载](https://github.com/jiangwei1995910/csvTranVcf/raw/master/csv%E8%BD%ACvcf%E5%B0%8F%E5%B7%A5%E5%85%B7.jar)
 <br>
